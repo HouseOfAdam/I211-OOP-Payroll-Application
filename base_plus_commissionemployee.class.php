@@ -12,6 +12,7 @@
  */
 class BasePlusCommissionEmployee extends CommissionEmployee {
     //put your code here
+    //attributes
 }
 
 ?>
